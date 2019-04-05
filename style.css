@@ -2,6 +2,10 @@ body {
     background: red;
 }
 
+a {
+    color: antiquewhite;
+}
+
 .content {
     width: 680px;
 }
